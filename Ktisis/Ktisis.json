@@ -1,8 +1,8 @@
 {
 	"Author": "Chirp",
-	"Name": "Ktisis",
+	"Name": "Ktisis (Legacy)",
 	"PunchLine": "A robust posing tool for creating screenshots in GPose.",
-	"Description": "A robust posing tool for creating screenshots in GPose.",
+	"Description": "A robust posing tool for creating screenshots in GPose. Please know v0.2.x will not be updated again, with this Legacy release not being maintained by Ktisis team themselves.",
 	"InternalName": "Ktisis",
 	"RepoUrl": "https://github.com/ktisis-tools/Ktisis",
 	"IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
